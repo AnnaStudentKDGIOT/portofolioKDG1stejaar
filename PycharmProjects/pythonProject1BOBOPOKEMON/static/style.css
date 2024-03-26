@@ -1,0 +1,26 @@
+
+* {
+    display: grid;
+}
+
+body {
+
+    color: darkgreen;
+    height: 500px;
+    width: 600px;
+    background-color: blue;
+
+}
+ul {
+    border: black;
+    border-bottom-width: thick;
+    border-left-width: inherit;
+    border-right-width: inherit;
+    border-top-width: inherit;
+
+
+}
+li{
+color: aliceblue;
+    display: flex;
+}
